@@ -1,0 +1,7 @@
+C:\Users\trent\Desktop\Homework\202020 Winter 2020\AI\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\trent\Desktop\Homework\202020 Winter 2020\AI\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\trent\Desktop\Homework\202020 Winter 2020\AI\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\trent\Desktop\Homework\202020 Winter 2020\AI\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\trent\Desktop\Homework\202020 Winter 2020\AI\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\trent\Desktop\Homework\202020 Winter 2020\AI\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\trent\Desktop\Homework\202020 Winter 2020\AI\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
