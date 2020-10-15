@@ -1,1 +1,3 @@
 # AITicTacToeAlgorithm
+Hello! Here is a Tic Tac Toe Artifical Intelligence program that me and a classmate (Nathaniel Wright) developed for our Artifical Intelligence class at Davenport University.
+The purpose of this program is to have 2 seperate AI Players, who are "playing" a game of tic tac toe against each other. These two players are different, however. One of the players is quote on quote "smarter" than the other. Meaning, that the player searches through a Mini Max Tree of game evaluations, and it goes down the tree 1 more level than the other player. Thus, the smarter player has more of an informed choice.
